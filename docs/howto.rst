@@ -1,41 +1,19 @@
-Methods
-=======
+HowTo
+=====
 
-RUSLE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-University of Stuttgart)
-
-More coming soon
-
-SEDD
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-More coming soon
-
-Other
-~~~~~
-
-Code Documentation
-=========================
-
-This section will be filled with codes products.
-
-Data
-====
+Data Storage
+~~~~~~~~~~~~
 
 Small Datasets (<100MB)
-~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Smaller and test datasets for application examples will be provided on GitHub repositories with instructions on how to use the data with algorithms from this project.
 
 Large Datasets (>100MB)
-~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Large datasets will be hosted on ???
 
-Instructions
-============
 
 Create new Code
 ~~~~~~~~~~~~~~~

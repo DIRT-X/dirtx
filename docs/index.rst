@@ -48,7 +48,12 @@ Instructions for getting ready to use models, codes, and algorithms provided are
 .. toctree::
     :hidden:
 
-    Methods & Codes <codes>
+    How To <howto>
+
+.. toctree::
+    :hidden:
+
+    Code Docs <code_docs>
 
 .. toctree::
     :hidden:
