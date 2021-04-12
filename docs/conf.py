@@ -106,7 +106,7 @@ html_theme_options = {
         "notebook_interface": "jupyterlab",
         "collapse_navigation": False
     },
-    "repository_url": "https://github.com/Ecohydraulics/dirtx/",
+    "repository_url": "https://github.com/DIRT-X/dirtx/",
     "repository_branch": "main",
     "use_edit_page_button": False,
     "use_repository_button": True,
@@ -115,7 +115,7 @@ html_theme_options = {
 html_context = {
     "date": datetime.date.today().strftime("%Y-%m-%d"),
     "display_github": True,
-    "github_user": "Ecohydraulics",
+    "github_user": "DIRT-X",
     "github_repo": "dirtx",
     "github_version": "main/",
     "conf_py_path": "/docs/"

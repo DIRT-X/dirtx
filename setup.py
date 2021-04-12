@@ -16,11 +16,11 @@ setup(
     python_requires=">=3.7",
     author="Sebastian Schwindt, Kilian Mouris",
     author_email="sebastian.schwindt@iws.uni-stuttgart.de",
-    url="https://github.com/Ecohydraulics/dirtx",
+    url="https://github.com/DIRT-X/dirtx",
     project_urls={
         "Documentation": "https://dirtx.readthedocs.io/",
         "Funding": "European Union",
-        "Source": "https://github.com/Ecohydraulics/dirtx",
+        "Source": "https://github.com/DIRT-X/dirtx",
     },
     # this should be a whitespace separated string of keywords, not a list
     keywords="sediment Delivery Reservoirs climate change society across scales",
